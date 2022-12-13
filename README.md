@@ -1,1 +1,3 @@
-# INLS690-DM-HW3-Competition
+# INLS 690 Data Mining Homework 3 Competition:
+This is from my Data Mining class. We had a number of in-class Kaggle competitions associated with homework assignments. This one was a classification problem where we worked to classify Amazon reviews as being either positive or negative reviews. In the end, I got 4th place with logistic regression tuned well and with finding additional Amazon review data and Yelp review data. 
+In this case, that worked out to an accurracy (the metric we were being evaluated on) of about 94.8ish percent. I'm including my relatively messy code that shows the evolution of my project. I'm also including my one page write-up even though it is nothing special. 
